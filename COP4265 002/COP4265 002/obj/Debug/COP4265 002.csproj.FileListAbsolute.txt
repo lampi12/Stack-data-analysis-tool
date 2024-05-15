@@ -1,0 +1,10 @@
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\bin\Debug\COP4265 002.exe.config
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\bin\Debug\COP4265 002.exe
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\bin\Debug\COP4265 002.pdb
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265 002.csproj.AssemblyReference.cache
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265_002.Form_Stockviewer.resources
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265_002.Properties.Resources.resources
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265 002.csproj.GenerateResource.cache
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265 002.csproj.CoreCompileInputs.cache
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265 002.exe
+C:\Users\Lampi\Desktop\C#\COP4265 002\COP4265 002\obj\Debug\COP4265 002.pdb
